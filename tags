@@ -1,0 +1,107 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.6	//
+ColorPalette	palette_index.cpp	/^namespace ColorPalette$/;"	n	file:
+ColorPalette	palette_index.h	/^namespace ColorPalette$/;"	n
+ColorPercent	palette_index.h	/^struct ColorPercent$/;"	s	namespace:ColorPalette
+DEBUG_LEVEL	emd.c	22;"	d	file:
+EPSILON	emd.h	23;"	d
+Features	emd.h	/^  feature_t *Features;  \/* Pointer to the features vector *\/$/;"	m	struct:__anon2
+INFINITY	emd.h	22;"	d
+MAX_ITERATIONS	emd.h	21;"	d
+MAX_SIG_SIZE	emd.h	20;"	d
+MAX_SIG_SIZE1	emd.c	33;"	d	file:
+Next	emd.c	/^  struct node1_t *Next;$/;"	m	struct:node1_t	typeref:struct:node1_t::node1_t	file:
+NextC	emd.c	/^  struct node2_t *NextC;               \/* NEXT COLUMN *\/$/;"	m	struct:node2_t	typeref:struct:node2_t::node2_t	file:
+NextR	emd.c	/^  struct node2_t *NextR;               \/* NEXT ROW *\/$/;"	m	struct:node2_t	typeref:struct:node2_t::node2_t	file:
+PaletteIndex	palette_index.cpp	/^PaletteIndex::PaletteIndex()$/;"	f	class:ColorPalette::PaletteIndex
+PaletteIndex	palette_index.h	/^class PaletteIndex$/;"	c	namespace:ColorPalette
+SingleColor	palette_index.h	/^struct SingleColor$/;"	s	namespace:ColorPalette
+Weights	emd.h	/^  float *Weights;       \/* Pointer to the weights of the features *\/$/;"	m	struct:__anon2
+WordCountMap	wordcount.cpp	/^	WordCountMap(HadoopPipes::TaskContext& context){}$/;"	f	class:WordCountMap
+WordCountMap	wordcount.cpp	/^class WordCountMap: public HadoopPipes::Mapper {$/;"	c	file:
+WordCountReduce	wordcount.cpp	/^	WordCountReduce(HadoopPipes::TaskContext& context){}$/;"	f	class:WordCountReduce
+WordCountReduce	wordcount.cpp	/^class WordCountReduce: public HadoopPipes::Reducer {$/;"	c	file:
+X	emd.h	/^typedef struct { int X,Y,Z; } feature_t;$/;"	m	struct:__anon1
+Y	emd.h	/^typedef struct { int X,Y,Z; } feature_t;$/;"	m	struct:__anon1
+Z	emd.h	/^typedef struct { int X,Y,Z; } feature_t;$/;"	m	struct:__anon1
+_C	emd.c	/^static float _C[MAX_SIG_SIZE1][MAX_SIG_SIZE1];\/* THE COST MATRIX *\/$/;"	v	file:
+_ColsX	emd.c	/^static node2_t *_RowsX[MAX_SIG_SIZE1], *_ColsX[MAX_SIG_SIZE1];$/;"	v	file:
+_EMD_H	emd.h	2;"	d
+_EndX	emd.c	/^static node2_t *_EndX, *_EnterX;$/;"	v	file:
+_EnterX	emd.c	/^static node2_t *_EndX, *_EnterX;$/;"	v	file:
+_IsX	emd.c	/^static char _IsX[MAX_SIG_SIZE1][MAX_SIG_SIZE1];$/;"	v	file:
+_RowsX	emd.c	/^static node2_t *_RowsX[MAX_SIG_SIZE1], *_ColsX[MAX_SIG_SIZE1];$/;"	v	file:
+_X	emd.c	/^static node2_t _X[MAX_SIG_SIZE1*2];            \/* THE BASIC VARIABLES VECTOR *\/$/;"	v	file:
+_maxC	emd.c	/^static float _maxC;$/;"	v	file:
+_maxW	emd.c	/^static double _maxW;$/;"	v	file:
+_n1	emd.c	/^static int _n1, _n2;                          \/* SIGNATURES SIZES *\/$/;"	v	file:
+_n2	emd.c	/^static int _n1, _n2;                          \/* SIGNATURES SIZES *\/$/;"	v	file:
+addBasicVariable	emd.c	/^static void addBasicVariable(int minI, int minJ, double *S, double *D, $/;"	f	file:
+amount	emd.h	/^  float amount;         \/* Amount of flow from "from" to "to" *\/$/;"	m	struct:__anon3
+buildIndex	palette_index.cpp	/^void PaletteIndex::buildIndex()$/;"	f	class:ColorPalette::PaletteIndex
+colorIndex	palette_index.h	/^    vector<vector<ColorPercent> > colorIndex;$/;"	m	class:ColorPalette::PaletteIndex
+colorPercent	palette_index.h	/^    int colorPercent;$/;"	m	struct:ColorPalette::ColorPercent
+colorPercent	palette_index.h	/^    int colorPercent;$/;"	m	struct:ColorPalette::SingleColor
+colors	palette_index.h	/^	vector<Vec3b> colors;$/;"	m	class:ColorPalette::PaletteIndex
+descriptors	palette_index.h	/^    vector<vector<int> > descriptors;$/;"	m	class:ColorPalette::PaletteIndex
+dist	example1.c	/^float dist(feature_t *F1, feature_t *F2)$/;"	f
+dist	utils.cpp	/^float dist(feature_t *F1, feature_t *F2)$/;"	f
+emd	emd.c	/^float emd(signature_t *Signature1, signature_t *Signature2,$/;"	f
+feature_t	emd.h	/^typedef struct { int X,Y,Z; } feature_t;$/;"	t	typeref:struct:__anon1
+fileId	palette_index.h	/^    int fileId;$/;"	m	struct:ColorPalette::SingleColor
+fileNames	palette_index.h	/^    vector<string> fileNames;$/;"	m	class:ColorPalette::PaletteIndex
+findBasicVariables	emd.c	/^static void findBasicVariables(node1_t *U, node1_t *V)$/;"	f	file:
+findLoop	emd.c	/^static int findLoop(node2_t **Loop)$/;"	f	file:
+flow_t	emd.h	/^} flow_t;$/;"	t	typeref:struct:__anon3
+from	emd.h	/^  int from;             \/* Feature number in signature 1 *\/$/;"	m	struct:__anon3
+gendescriptor	gendescriptor.cpp	/^vector<int> gendescriptor(string filename)$/;"	f
+getIndex	gendescriptor.cpp	/^int getIndex(Vec3b& p)$/;"	f
+getIndex	gendescriptor.cpp	/^int getIndex(const string& s)$/;"	f
+getIndex	gendescriptor.cpp	/^int getIndex(int rgb)$/;"	f
+getPalette	testPaletteSearch.cpp	/^map<int,int> getPalette(vector<string>& v)$/;"	f
+getVectorIntersection	palette_index.cpp	/^vector<int> PaletteIndex::getVectorIntersection(vector<int>& a, vector<int>& b)$/;"	f	class:ColorPalette::PaletteIndex
+group	palette_index.h	/^    int group;$/;"	m	class:ColorPalette::PaletteIndex
+hex2int	utils.cpp	/^long hex2int(const string& hexStr )$/;"	f
+histIntersectionDist	palette_index.cpp	/^double PaletteIndex::histIntersectionDist(vector<int>& a, vector<int>& b)$/;"	f	class:ColorPalette::PaletteIndex
+histMatchDist	palette_index.cpp	/^float PaletteIndex::histMatchDist(vector<int>& a, vector<int>& b)$/;"	f	class:ColorPalette::PaletteIndex
+i	emd.c	/^  int i, j;$/;"	m	struct:node2_t	file:
+i	emd.c	/^  int i;$/;"	m	struct:node1_t	file:
+init	emd.c	/^static float init(signature_t *Signature1, signature_t *Signature2, $/;"	f	file:
+initColors	gendescriptor.cpp	/^vector<Point3f> initColors()$/;"	f
+isOptimal	emd.c	/^static int isOptimal(node1_t *U, node1_t *V)$/;"	f	file:
+j	emd.c	/^  int i, j;$/;"	m	struct:node2_t	file:
+last	palette_index.h	/^    int last;$/;"	m	struct:ColorPalette::ColorPercent
+loadPics	palette_index.cpp	/^void PaletteIndex::loadPics(const string& filelist)$/;"	f	class:ColorPalette::PaletteIndex
+main	example1.c	/^main()$/;"	f
+main	testGendesc.cpp	/^int main(int argc, char** argv)$/;"	f
+main	testPaletteSearch.cpp	/^int main()$/;"	f
+main	wordcount.cpp	/^int main(int argc, char *argv[]) {$/;"	f
+map	wordcount.cpp	/^	void map(HadoopPipes::MapContext& context) {$/;"	f	class:WordCountMap
+myfunction	palette_index.cpp	/^bool PaletteIndex::myfunction(const SingleColor& a, const SingleColor& b)$/;"	f	class:ColorPalette::PaletteIndex
+myhex2int	utils.cpp	/^int myhex2int(const string& hexStr)$/;"	f
+n	emd.h	/^  int n;                \/* Number of features in the signature *\/$/;"	m	struct:__anon2
+newSol	emd.c	/^static void newSol()$/;"	f	file:
+node1_t	emd.c	/^typedef struct node1_t {$/;"	s	file:
+node1_t	emd.c	/^} node1_t;$/;"	t	typeref:struct:node1_t	file:
+node2_t	emd.c	/^typedef struct node2_t {$/;"	s	file:
+node2_t	emd.c	/^} node2_t;$/;"	t	typeref:struct:node2_t	file:
+picIndex	palette_index.h	/^    vector<vector<SingleColor> > picIndex;$/;"	m	class:ColorPalette::PaletteIndex
+printDescriptors	palette_index.cpp	/^void PaletteIndex::printDescriptors()$/;"	f	class:ColorPalette::PaletteIndex
+printResult	palette_index.cpp	/^void PaletteIndex::printResult(vector<int>& desc, vector<int>& final)$/;"	f	class:ColorPalette::PaletteIndex
+printSolution	emd.c	/^static void printSolution()$/;"	f	file:
+reduce	wordcount.cpp	/^	void reduce(HadoopPipes::ReduceContext& context) {$/;"	f	class:WordCountReduce
+russel	emd.c	/^static void russel(double *S, double *D)$/;"	f	file:
+search	palette_index.cpp	/^void PaletteIndex::search(const string& fileName)$/;"	f	class:ColorPalette::PaletteIndex
+search	palette_index.cpp	/^void PaletteIndex::search(map<int,int>& q)$/;"	f	class:ColorPalette::PaletteIndex
+searchHist	palette_index.cpp	/^void PaletteIndex::searchHist(vector<int>& desc, vector<int>& final)$/;"	f	class:ColorPalette::PaletteIndex
+signature_t	emd.h	/^} signature_t;$/;"	t	typeref:struct:__anon2
+split	utils.cpp	/^void split(const string& s, char c, vector<string>& v)$/;"	f
+to	emd.h	/^  int to;               \/* Feature number in signature 2 *\/$/;"	m	struct:__anon3
+total_colors	palette_index.h	/^    int total_colors;$/;"	m	class:ColorPalette::PaletteIndex
+val	emd.c	/^  double val;$/;"	m	struct:node1_t	file:
+val	emd.c	/^  double val;$/;"	m	struct:node2_t	file:
+~PaletteIndex	palette_index.cpp	/^PaletteIndex::~PaletteIndex()$/;"	f	class:ColorPalette::PaletteIndex

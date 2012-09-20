@@ -1,0 +1,16 @@
+/home/is_admin/lab/colorpalette/test_result/0100150000000019400.jpg
+/home/is_admin/lab/colorpalette/test_result/0100150000000044400.jpg
+/home/is_admin/lab/colorpalette/test_result/0100150000000054400.jpg
+/home/is_admin/lab/colorpalette/test_result/0100150000000059400.jpg
+/home/is_admin/lab/colorpalette/test_result/0100150000000061400.jpg
+/home/is_admin/lab/colorpalette/test_result/0100150000000062400.jpg
+/home/is_admin/lab/colorpalette/test_result/0100150000000065400.jpg
+/home/is_admin/lab/colorpalette/test_result/0100150000000067400.jpg
+/home/is_admin/lab/colorpalette/test_result/0100150000000068400.jpg
+/home/is_admin/lab/colorpalette/test_result/0100150000000069400.jpg
+/home/is_admin/lab/colorpalette/test_result/0100150000000070400.jpg
+/home/is_admin/lab/colorpalette/test_result/0100150000000072400.jpg
+/home/is_admin/lab/colorpalette/test_result/0100150000000074400.jpg
+/home/is_admin/lab/colorpalette/test_result/0100150000000093400.jpg
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg
+/home/is_admin/lab/colorpalette/test_result/0100150000000096400.jpg

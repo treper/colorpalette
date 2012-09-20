@@ -1,0 +1,673 @@
+building index...
+generating descriptors for each image
+generating descriptors cost 0 seconds
+512
+512
+index builded in 0 seconds
+descriptors size 16
+image search image
+query descriptors:
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 8 9 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 0 0 0 0 0 0 0 13 1 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 21 14 0 0 0 0 0 0 0 0 0 0 
+query percent 1
+0
+1
+get it
+query percent 2
+0
+2
+query percent 1
+0
+1
+get it
+query percent 8
+0
+2
+3
+8
+get it
+query percent 9
+0
+1
+2
+4
+9
+query percent 1
+0
+1
+get it
+query percent 1
+0
+1
+query percent 8
+0
+1
+2
+3
+8
+get it
+query percent 13
+0
+13
+get it
+query percent 1
+0
+1
+get it
+query percent 5
+0
+5
+query percent 21
+0
+3
+4
+6
+14
+21
+query percent 14
+0
+2
+14
+candidate groups:13
+candidate images are: 
+sc:1sa:85sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000044400.jpg 0.0117647
+sc:4sa:85sb:89
+/home/is_admin/lab/colorpalette/test_result/0100150000000054400.jpg 0.0470588
+sc:3sa:85sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000059400.jpg 0.0352941
+sc:26sa:85sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000061400.jpg 0.305882
+sc:1sa:85sb:84
+/home/is_admin/lab/colorpalette/test_result/0100150000000062400.jpg 0.0119048
+sc:5sa:85sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000065400.jpg 0.0588235
+sc:7sa:85sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000067400.jpg 0.0886076
+sc:1sa:85sb:83
+/home/is_admin/lab/colorpalette/test_result/0100150000000068400.jpg 0.0120482
+sc:1sa:85sb:90
+/home/is_admin/lab/colorpalette/test_result/0100150000000069400.jpg 0.0117647
+sc:24sa:85sb:93
+/home/is_admin/lab/colorpalette/test_result/0100150000000070400.jpg 0.282353
+sc:26sa:85sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000072400.jpg 0.305882
+sc:85sa:85sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000019400.jpg 1
+sc:4sa:85sb:89
+/home/is_admin/lab/colorpalette/test_result/0100150000000054400.jpg 0.0470588
+sc:5sa:85sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000065400.jpg 0.0588235
+similar images are: 
+/home/is_admin/lab/colorpalette/test_result/0100150000000069400.jpg 0.0117647
+/home/is_admin/lab/colorpalette/test_result/0100150000000062400.jpg 0.0119048
+/home/is_admin/lab/colorpalette/test_result/0100150000000068400.jpg 0.0120482
+/home/is_admin/lab/colorpalette/test_result/0100150000000059400.jpg 0.0352941
+/home/is_admin/lab/colorpalette/test_result/0100150000000054400.jpg 0.0470588
+/home/is_admin/lab/colorpalette/test_result/0100150000000065400.jpg 0.0588235
+/home/is_admin/lab/colorpalette/test_result/0100150000000067400.jpg 0.0886076
+/home/is_admin/lab/colorpalette/test_result/0100150000000070400.jpg 0.282353
+/home/is_admin/lab/colorpalette/test_result/0100150000000072400.jpg 0.305882
+/home/is_admin/lab/colorpalette/test_result/0100150000000019400.jpg 1
+hist search
+query palette is: 9efc66:10;a477c3:26
+rgb,percent:10419302,10
+rgb,percent:10778563,26
+query palette:
+10419302:10;
+10778563:26;
+rgb:4 7 3
+rgb:5 3 6
+query percent 10
+0
+query percent 26
+0
+candidate groups:2
+candidate images are: 
+sc:0sa:36sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000019400.jpg 0
+sc:0sa:36sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000044400.jpg 0
+sc:0sa:36sb:89
+/home/is_admin/lab/colorpalette/test_result/0100150000000054400.jpg 0
+sc:0sa:36sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000059400.jpg 0
+sc:0sa:36sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000061400.jpg 0
+sc:0sa:36sb:84
+/home/is_admin/lab/colorpalette/test_result/0100150000000062400.jpg 0
+sc:0sa:36sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000065400.jpg 0
+sc:0sa:36sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000067400.jpg 0
+sc:0sa:36sb:83
+/home/is_admin/lab/colorpalette/test_result/0100150000000068400.jpg 0
+sc:0sa:36sb:90
+/home/is_admin/lab/colorpalette/test_result/0100150000000069400.jpg 0
+sc:0sa:36sb:93
+/home/is_admin/lab/colorpalette/test_result/0100150000000070400.jpg 0
+sc:0sa:36sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000072400.jpg 0
+sc:0sa:36sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000074400.jpg 0
+sc:0sa:36sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000093400.jpg 0
+sc:0sa:36sb:76
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0
+similar images are: 
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0
+query palette is: 170589:14;8cb9fc:10;7e735c:49;d8d1f4:16
+rgb,percent:1508745,14
+rgb,percent:9222652,10
+rgb,percent:8287068,49
+rgb,percent:14209524,16
+query palette:
+1508745:14;
+8287068:49;
+9222652:10;
+14209524:16;
+rgb:0 0 4
+rgb:3 3 2
+rgb:4 5 7
+rgb:6 6 7
+query percent 14
+0
+query percent 49
+0
+2
+query percent 10
+0
+query percent 16
+0
+candidate groups:4
+candidate images are: 
+sc:2sa:89sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000019400.jpg 0.0235294
+sc:0sa:89sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000044400.jpg 0
+sc:0sa:89sb:89
+/home/is_admin/lab/colorpalette/test_result/0100150000000054400.jpg 0
+sc:0sa:89sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000059400.jpg 0
+sc:0sa:89sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000061400.jpg 0
+sc:0sa:89sb:84
+/home/is_admin/lab/colorpalette/test_result/0100150000000062400.jpg 0
+sc:0sa:89sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000065400.jpg 0
+sc:0sa:89sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000067400.jpg 0
+sc:0sa:89sb:83
+/home/is_admin/lab/colorpalette/test_result/0100150000000068400.jpg 0
+sc:0sa:89sb:90
+/home/is_admin/lab/colorpalette/test_result/0100150000000069400.jpg 0
+sc:0sa:89sb:93
+/home/is_admin/lab/colorpalette/test_result/0100150000000070400.jpg 0
+sc:0sa:89sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000072400.jpg 0
+sc:0sa:89sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000074400.jpg 0
+sc:0sa:89sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000093400.jpg 0
+sc:0sa:89sb:76
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0
+similar images are: 
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0
+/home/is_admin/lab/colorpalette/test_result/0100150000000019400.jpg 0.0235294
+query palette is: c50779:53;10b1f6:5;97aa0f:25;a51810:2
+rgb,percent:12912505,53
+rgb,percent:1094134,5
+rgb,percent:9939471,25
+rgb,percent:10819600,2
+query palette:
+1094134:5;
+9939471:25;
+10819600:2;
+12912505:53;
+rgb:0 5 7
+rgb:4 5 0
+rgb:5 0 0
+rgb:6 0 3
+query percent 5
+0
+query percent 25
+0
+query percent 2
+0
+query percent 53
+0
+candidate groups:4
+candidate images are: 
+sc:0sa:85sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000019400.jpg 0
+sc:0sa:85sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000044400.jpg 0
+sc:0sa:85sb:89
+/home/is_admin/lab/colorpalette/test_result/0100150000000054400.jpg 0
+sc:0sa:85sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000059400.jpg 0
+sc:0sa:85sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000061400.jpg 0
+sc:0sa:85sb:84
+/home/is_admin/lab/colorpalette/test_result/0100150000000062400.jpg 0
+sc:0sa:85sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000065400.jpg 0
+sc:0sa:85sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000067400.jpg 0
+sc:0sa:85sb:83
+/home/is_admin/lab/colorpalette/test_result/0100150000000068400.jpg 0
+sc:0sa:85sb:90
+/home/is_admin/lab/colorpalette/test_result/0100150000000069400.jpg 0
+sc:0sa:85sb:93
+/home/is_admin/lab/colorpalette/test_result/0100150000000070400.jpg 0
+sc:0sa:85sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000072400.jpg 0
+sc:0sa:85sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000074400.jpg 0
+sc:0sa:85sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000093400.jpg 0
+sc:0sa:85sb:76
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0
+similar images are: 
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0
+query palette is: edcc5a:13;1a3e8a:17;a35876:57
+rgb,percent:15584346,13
+rgb,percent:1719946,17
+rgb,percent:10705014,57
+query palette:
+1719946:17;
+10705014:57;
+15584346:13;
+rgb:0 1 4
+rgb:5 2 3
+rgb:7 6 2
+query percent 17
+0
+query percent 57
+0
+query percent 13
+0
+candidate groups:3
+candidate images are: 
+sc:0sa:87sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000019400.jpg 0
+sc:0sa:87sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000044400.jpg 0
+sc:0sa:87sb:89
+/home/is_admin/lab/colorpalette/test_result/0100150000000054400.jpg 0
+sc:0sa:87sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000059400.jpg 0
+sc:0sa:87sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000061400.jpg 0
+sc:0sa:87sb:84
+/home/is_admin/lab/colorpalette/test_result/0100150000000062400.jpg 0
+sc:0sa:87sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000065400.jpg 0
+sc:0sa:87sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000067400.jpg 0
+sc:0sa:87sb:83
+/home/is_admin/lab/colorpalette/test_result/0100150000000068400.jpg 0
+sc:0sa:87sb:90
+/home/is_admin/lab/colorpalette/test_result/0100150000000069400.jpg 0
+sc:0sa:87sb:93
+/home/is_admin/lab/colorpalette/test_result/0100150000000070400.jpg 0
+sc:0sa:87sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000072400.jpg 0
+sc:0sa:87sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000074400.jpg 0
+sc:0sa:87sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000093400.jpg 0
+sc:0sa:87sb:76
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0
+similar images are: 
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0
+query palette is: 646279:76;1f23e6:11;7716b0:13
+rgb,percent:6578809,76
+rgb,percent:2040806,11
+rgb,percent:7804592,13
+query palette:
+2040806:11;
+6578809:76;
+7804592:13;
+rgb:0 1 7
+rgb:3 3 3
+rgb:3 0 5
+query percent 11
+0
+query percent 13
+0
+query percent 76
+0
+1
+2
+3
+5
+6
+7
+candidate groups:3
+candidate images are: 
+sc:0sa:100sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000019400.jpg 0
+sc:0sa:100sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000044400.jpg 0
+sc:0sa:100sb:89
+/home/is_admin/lab/colorpalette/test_result/0100150000000054400.jpg 0
+sc:0sa:100sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000059400.jpg 0
+sc:1sa:100sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000061400.jpg 0.0116279
+sc:1sa:100sb:84
+/home/is_admin/lab/colorpalette/test_result/0100150000000062400.jpg 0.0119048
+sc:5sa:100sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000065400.jpg 0.0588235
+sc:7sa:100sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000067400.jpg 0.0886076
+sc:1sa:100sb:83
+/home/is_admin/lab/colorpalette/test_result/0100150000000068400.jpg 0.0120482
+sc:5sa:100sb:90
+/home/is_admin/lab/colorpalette/test_result/0100150000000069400.jpg 0.0555556
+sc:0sa:100sb:93
+/home/is_admin/lab/colorpalette/test_result/0100150000000070400.jpg 0
+sc:0sa:100sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000072400.jpg 0
+sc:1sa:100sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000061400.jpg 0.0116279
+sc:1sa:100sb:84
+/home/is_admin/lab/colorpalette/test_result/0100150000000062400.jpg 0.0119048
+sc:1sa:100sb:83
+/home/is_admin/lab/colorpalette/test_result/0100150000000068400.jpg 0.0120482
+sc:2sa:100sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000074400.jpg 0.0232558
+sc:6sa:100sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000093400.jpg 0.0759494
+sc:5sa:100sb:76
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0.0657895
+similar images are: 
+/home/is_admin/lab/colorpalette/test_result/0100150000000072400.jpg 0
+/home/is_admin/lab/colorpalette/test_result/0100150000000061400.jpg 0.0116279
+/home/is_admin/lab/colorpalette/test_result/0100150000000062400.jpg 0.0119048
+/home/is_admin/lab/colorpalette/test_result/0100150000000068400.jpg 0.0120482
+/home/is_admin/lab/colorpalette/test_result/0100150000000074400.jpg 0.0232558
+/home/is_admin/lab/colorpalette/test_result/0100150000000069400.jpg 0.0555556
+/home/is_admin/lab/colorpalette/test_result/0100150000000065400.jpg 0.0588235
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0.0657895
+/home/is_admin/lab/colorpalette/test_result/0100150000000093400.jpg 0.0759494
+/home/is_admin/lab/colorpalette/test_result/0100150000000067400.jpg 0.0886076
+query palette is: 877b33:45;8b10b2:42;54fb35:4;172b88:2
+rgb,percent:8878899,45
+rgb,percent:9113778,42
+rgb,percent:5569333,4
+rgb,percent:1518472,2
+query palette:
+1518472:2;
+5569333:4;
+8878899:45;
+9113778:42;
+rgb:0 1 4
+rgb:2 7 1
+rgb:4 3 1
+rgb:4 0 5
+query percent 2
+0
+query percent 4
+0
+query percent 42
+0
+query percent 45
+0
+candidate groups:4
+candidate images are: 
+sc:0sa:93sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000019400.jpg 0
+sc:0sa:93sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000044400.jpg 0
+sc:0sa:93sb:89
+/home/is_admin/lab/colorpalette/test_result/0100150000000054400.jpg 0
+sc:0sa:93sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000059400.jpg 0
+sc:0sa:93sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000061400.jpg 0
+sc:0sa:93sb:84
+/home/is_admin/lab/colorpalette/test_result/0100150000000062400.jpg 0
+sc:0sa:93sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000065400.jpg 0
+sc:0sa:93sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000067400.jpg 0
+sc:0sa:93sb:83
+/home/is_admin/lab/colorpalette/test_result/0100150000000068400.jpg 0
+sc:0sa:93sb:90
+/home/is_admin/lab/colorpalette/test_result/0100150000000069400.jpg 0
+sc:0sa:93sb:93
+/home/is_admin/lab/colorpalette/test_result/0100150000000070400.jpg 0
+sc:0sa:93sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000072400.jpg 0
+sc:0sa:93sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000074400.jpg 0
+sc:0sa:93sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000093400.jpg 0
+sc:0sa:93sb:76
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0
+similar images are: 
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0
+query palette is: 3ff6cd:28;c7e42c:43;f3e9f9:13;55e938:16
+rgb,percent:4191949,28
+rgb,percent:13100076,43
+rgb,percent:15985145,13
+rgb,percent:5630264,16
+query palette:
+4191949:28;
+5630264:16;
+13100076:43;
+15985145:13;
+rgb:1 7 6
+rgb:2 7 1
+rgb:6 7 1
+rgb:7 7 7
+query percent 28
+0
+query percent 16
+0
+query percent 43
+0
+query percent 13
+0
+get it
+candidate groups:4
+candidate images are: 
+sc:0sa:100sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000019400.jpg 0
+sc:13sa:100sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000044400.jpg 0.147727
+sc:0sa:100sb:89
+/home/is_admin/lab/colorpalette/test_result/0100150000000054400.jpg 0
+sc:0sa:100sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000059400.jpg 0
+sc:0sa:100sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000061400.jpg 0
+sc:0sa:100sb:84
+/home/is_admin/lab/colorpalette/test_result/0100150000000062400.jpg 0
+sc:0sa:100sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000065400.jpg 0
+sc:0sa:100sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000067400.jpg 0
+sc:13sa:100sb:83
+/home/is_admin/lab/colorpalette/test_result/0100150000000068400.jpg 0.156627
+sc:13sa:100sb:90
+/home/is_admin/lab/colorpalette/test_result/0100150000000069400.jpg 0.144444
+sc:0sa:100sb:93
+/home/is_admin/lab/colorpalette/test_result/0100150000000070400.jpg 0
+sc:0sa:100sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000072400.jpg 0
+sc:13sa:100sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000074400.jpg 0.151163
+sc:0sa:100sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000093400.jpg 0
+sc:0sa:100sb:76
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0
+similar images are: 
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0
+/home/is_admin/lab/colorpalette/test_result/0100150000000069400.jpg 0.144444
+/home/is_admin/lab/colorpalette/test_result/0100150000000044400.jpg 0.147727
+/home/is_admin/lab/colorpalette/test_result/0100150000000074400.jpg 0.151163
+/home/is_admin/lab/colorpalette/test_result/0100150000000068400.jpg 0.156627
+query palette is: da9b55:37;c149d2:37;02c225:2;118c72:4;81bf68:14
+rgb,percent:14326613,37
+rgb,percent:12667346,37
+rgb,percent:180773,2
+rgb,percent:1150066,4
+rgb,percent:8503144,14
+query palette:
+180773:2;
+1150066:4;
+8503144:14;
+12667346:37;
+14326613:37;
+rgb:0 6 1
+rgb:0 4 3
+rgb:4 5 3
+rgb:6 2 6
+rgb:6 4 2
+query percent 4
+0
+query percent 2
+0
+query percent 14
+0
+query percent 37
+0
+query percent 37
+0
+1
+candidate groups:5
+candidate images are: 
+sc:0sa:94sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000019400.jpg 0
+sc:0sa:94sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000044400.jpg 0
+sc:0sa:94sb:89
+/home/is_admin/lab/colorpalette/test_result/0100150000000054400.jpg 0
+sc:0sa:94sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000059400.jpg 0
+sc:0sa:94sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000061400.jpg 0
+sc:1sa:94sb:84
+/home/is_admin/lab/colorpalette/test_result/0100150000000062400.jpg 0.0119048
+sc:0sa:94sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000065400.jpg 0
+sc:0sa:94sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000067400.jpg 0
+sc:0sa:94sb:83
+/home/is_admin/lab/colorpalette/test_result/0100150000000068400.jpg 0
+sc:0sa:94sb:90
+/home/is_admin/lab/colorpalette/test_result/0100150000000069400.jpg 0
+sc:0sa:94sb:93
+/home/is_admin/lab/colorpalette/test_result/0100150000000070400.jpg 0
+sc:0sa:94sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000072400.jpg 0
+sc:0sa:94sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000074400.jpg 0
+sc:0sa:94sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000093400.jpg 0
+sc:0sa:94sb:76
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0
+similar images are: 
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0
+/home/is_admin/lab/colorpalette/test_result/0100150000000062400.jpg 0.0119048
+query palette is: 988e0b:72;929cdb:1;d2621e:1
+rgb,percent:9997835,72
+rgb,percent:9608411,1
+rgb,percent:13787678,1
+query palette:
+9608411:1;
+9997835:72;
+13787678:1;
+rgb:4 4 6
+rgb:4 4 0
+rgb:6 3 0
+query percent 72
+0
+query percent 1
+0
+query percent 1
+0
+candidate groups:3
+candidate images are: 
+sc:0sa:74sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000019400.jpg 0
+sc:0sa:74sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000044400.jpg 0
+sc:0sa:74sb:89
+/home/is_admin/lab/colorpalette/test_result/0100150000000054400.jpg 0
+sc:0sa:74sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000059400.jpg 0
+sc:0sa:74sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000061400.jpg 0
+sc:0sa:74sb:84
+/home/is_admin/lab/colorpalette/test_result/0100150000000062400.jpg 0
+sc:0sa:74sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000065400.jpg 0
+sc:0sa:74sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000067400.jpg 0
+sc:0sa:74sb:83
+/home/is_admin/lab/colorpalette/test_result/0100150000000068400.jpg 0
+sc:0sa:74sb:90
+/home/is_admin/lab/colorpalette/test_result/0100150000000069400.jpg 0
+sc:0sa:74sb:93
+/home/is_admin/lab/colorpalette/test_result/0100150000000070400.jpg 0
+sc:0sa:74sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000072400.jpg 0
+sc:0sa:74sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000074400.jpg 0
+sc:0sa:74sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000093400.jpg 0
+sc:0sa:74sb:76
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0
+similar images are: 
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0
+query palette is: 6f486e:50;2127db:16
+rgb,percent:7293038,50
+rgb,percent:2172891,16
+query palette:
+2172891:16;
+7293038:50;
+rgb:1 1 6
+rgb:3 2 3
+query percent 16
+0
+query percent 50
+0
+1
+candidate groups:2
+candidate images are: 
+sc:0sa:66sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000019400.jpg 0
+sc:0sa:66sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000044400.jpg 0
+sc:0sa:66sb:89
+/home/is_admin/lab/colorpalette/test_result/0100150000000054400.jpg 0
+sc:0sa:66sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000059400.jpg 0
+sc:0sa:66sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000061400.jpg 0
+sc:0sa:66sb:84
+/home/is_admin/lab/colorpalette/test_result/0100150000000062400.jpg 0
+sc:0sa:66sb:85
+/home/is_admin/lab/colorpalette/test_result/0100150000000065400.jpg 0
+sc:0sa:66sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000067400.jpg 0
+sc:0sa:66sb:83
+/home/is_admin/lab/colorpalette/test_result/0100150000000068400.jpg 0
+sc:1sa:66sb:90
+/home/is_admin/lab/colorpalette/test_result/0100150000000069400.jpg 0.0151515
+sc:0sa:66sb:93
+/home/is_admin/lab/colorpalette/test_result/0100150000000070400.jpg 0
+sc:0sa:66sb:88
+/home/is_admin/lab/colorpalette/test_result/0100150000000072400.jpg 0
+sc:0sa:66sb:86
+/home/is_admin/lab/colorpalette/test_result/0100150000000074400.jpg 0
+sc:0sa:66sb:79
+/home/is_admin/lab/colorpalette/test_result/0100150000000093400.jpg 0
+sc:0sa:66sb:76
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0
+similar images are: 
+/home/is_admin/lab/colorpalette/test_result/0100150000000094400.jpg 0
+/home/is_admin/lab/colorpalette/test_result/0100150000000069400.jpg 0.0151515
